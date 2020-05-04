@@ -4,6 +4,7 @@ jobs:
   build:
     docker:
       - image: circleci/python
+    resource_class: small
 
     working_directory: ~/repo
 
