@@ -43,7 +43,6 @@ PyYAML==5.3.1
 requests==2.23.0
 six==1.10.0
 texttable==1.6.2
-unattended-upgrades==0.1
 urllib3==1.25.9
 virtualenv==15.0.1
 wcwidth==0.1.9
